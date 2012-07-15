@@ -1,0 +1,6 @@
+node_modules
+demo/bin
+demo/include
+demo/lib
+demo/.Python
+demo/readline*
